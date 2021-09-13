@@ -35,4 +35,7 @@
 - 02. 사이킷런으로 시작하는 머신러닝
 링크 : https://github.com/jiin124/2021_2_SAI_ML/tree/main/1%EC%A3%BC%EC%B0%A8
 
-
+#### 2주차
+- 03.
+- 04.분류(결정트리, 앙상블)
+링크 : https://github.com/jiin124/2021_2_SAI_ML/tree/main/2%EC%A3%BC%EC%B0%A8
