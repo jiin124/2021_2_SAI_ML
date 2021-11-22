@@ -2,10 +2,15 @@
 
 8명의 팀원들과 함께하는 머신러닝 공부
 
-회의 : 매주 월요일 9시
+
+
+컨퍼런스 콜 : 매주 월요일 9시
+
 
 팀원 : 김해리, 김성민, 이명준, 이지웅, 박지인, 최태정, 손상원, 박승일\
 팀장 : 박지인
+
+
 
 ## 매주 데이콘 대회 우수작 코드 분석🥇
 
@@ -30,12 +35,61 @@
 
 ### 커리큘럼💻
 
+#### 💚💚[공부내용 정리](https://www.notion.so/jiinpp/SAI_A_ML_2-17c4886a1d394a4d8e43935c4175e171)💚💚
+공부내용 정리를 클릭하면 노션에서 정리본을 볼 수 있어요. 
+
+
 #### 1주차
 - 01.파이썬 기반의 머신러닝과 생태계 이해
 - 02.사이킷런으로 시작하는 머신러닝
-- 링크 : https://github.com/jiin124/2021_2_SAI_ML/tree/main/1%EC%A3%BC%EC%B0%A8
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/1%EC%A3%BC%EC%B0%A8)
+
 
 #### 2주차
 - 03.평가
 - 04.분류(결정트리, 앙상블)
-- 링크 : https://github.com/jiin124/2021_2_SAI_ML/tree/main/2%EC%A3%BC%EC%B0%A8
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/2%EC%A3%BC%EC%B0%A8)
+
+#### 3주차
+- 04. 분류
+- 지금까지 배운 것들로 캐글 심부전증 예측
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/3%EC%A3%BC%EC%B0%A8)
+
+#### 4주차
+- 04. 분류_캐글 신용카드 사기검출
+- 05. 회귀 - 실습 전까지
+- 데이콘 : [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/data)
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/5%EC%A3%BC%EC%B0%A8)
+
+#### 5주차
+- 자전거 수요예측
+- 롤
+- 반도체 박막두께
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/5%EC%A3%BC%EC%B0%A8)
+
+#### 6주차
+- 차원축소
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/6%EC%A3%BC%EC%B0%A8)
+
+#### 9주차
+- [데이콘 구내 식당 식수 인원](https://dacon.io/competitions/official/235743/codeshare/3003?page=1&dtype=recent)
+- 군집화
+- 군집화 실습 - 고객 세그먼테이션
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/9%EC%A3%BC%EC%B0%A8)
+
+#### 10주차
+- 군집화 실습 캐글 신용카드
+- 캐글 와인데이터
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/10%EC%A3%BC%EC%B0%A8)
+
+#### 11주차
+- 텍스트 분석
+- 텍스트 분류 실습 - 20 뉴스그룹 분류
+- 감성분석
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/11%EC%A3%BC%EC%B0%A8)
+
+#### 12주차
+- 문서군집화 소개와 실습
+- 텍스트 분석 실습 - 캐글 Mercari Price Suggestion Challenge
+- [깃허브](https://github.com/jiin124/2021_2_SAI_ML/tree/main/12%EC%A3%BC%EC%B0%A8)
+
